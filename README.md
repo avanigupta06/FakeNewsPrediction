@@ -29,3 +29,4 @@ Future-proofed the application with easy integration for deployment on platforms
 - **ML Libraries:** scikit-learn, pandas, nltk, numpy
 
 ---
+![1](https://github.com/user-attachments/assets/29c66657-62a4-494f-abce-1481a29f9c21)
