@@ -1,14 +1,20 @@
-# Fake News Prediction
-Implemented a machine learning pipeline to classify news articles as real or fake using Python and scikit-learn.
+# 📰 Fake News Prediction Web App
 
-Preprocessed text data by applying stemming techniques and cleaning non-alphabetical characters to enhance model performance.
+This is a machine learning web application built with **Flask** that detects whether a given news article is **Fake** or **Real**. It uses **Natural Language Processing (NLP)** techniques with a **Logistic Regression** model trained on a dataset of news articles.
 
-Utilized TF-IDF Vectorizer to convert textual data into numerical features, optimizing feature representation.
+---
 
-Built and trained a Logistic Regression model on preprocessed data, achieving robust classification performance.
+## 🚀 Features
+- Predict if a news article is **Fake** or **Real**.
+- Simple and clean web interface using **HTML** and **Bootstrap**.
+- Preprocessing using **TF-IDF Vectorization**.
+- Model built with **scikit-learn**.
 
-Conducted exploratory data analysis (EDA) to understand data characteristics, handle missing values, and merge relevant features for improved insights.
+---
 
-Employed NLP techniques, including stopword removal and tokenization, to refine input data for machine learning.
+## 🛠️ Tech Stack
+- **Frontend:** HTML, Bootstrap
+- **Backend:** Flask (Python)
+- **ML Libraries:** scikit-learn, pandas, nltk, numpy
 
-Evaluated the model's accuracy using metrics such as accuracy score, ensuring high prediction reliability.
+---
