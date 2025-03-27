@@ -1,5 +1,7 @@
 # 📰 Fake News Prediction Web App
 
+Link for Website: https://fakenewsprediction-sggx.onrender.com
+
 This is a machine learning web application built with **Flask** that detects whether a given news article is **Fake** or **Real**. It uses **Natural Language Processing (NLP)** techniques with a **Logistic Regression** model trained on a dataset of news articles.
 
 Developed a machine learning model using Logistic Regression to classify news articles as Fake or Real.
@@ -17,14 +19,14 @@ Future-proofed the application with easy integration for deployment on platforms
 
 ## 🚀 Features
 - Predict if a news article is **Fake** or **Real**.
-- Simple and clean web interface using **HTML** and **Bootstrap**.
+- Simple and clean web interface using **HTML**.
 - Preprocessing using **TF-IDF Vectorization**.
 - Model built with **scikit-learn**.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, Bootstrap
+- **Frontend:** HTMl
 - **Backend:** Flask (Python)
 - **ML Libraries:** scikit-learn, pandas, nltk, numpy
 
