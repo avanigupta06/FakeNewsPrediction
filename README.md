@@ -19,14 +19,14 @@ Future-proofed the application with easy integration for deployment on platforms
 
 ## 🚀 Features
 - Predict if a news article is **Fake** or **Real**.
-- Simple and clean web interface using **HTML**.
+- Simple and clean web interface using **HTML** and **Bootstrap**.
 - Preprocessing using **TF-IDF Vectorization**.
 - Model built with **scikit-learn**.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTMl
+- **Frontend:** HTMl and Bootstrap
 - **Backend:** Flask (Python)
 - **ML Libraries:** scikit-learn, pandas, nltk, numpy
 
